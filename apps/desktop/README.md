@@ -2,7 +2,7 @@
 
 Built with [GPUI](https://www.gpui.rs).
 
-> [!WARNING]
+> [!NOTE]
 > Very early. Right now this is just a window that opens.
 
 ## Running
